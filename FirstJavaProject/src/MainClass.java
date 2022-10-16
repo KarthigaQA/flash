@@ -7,6 +7,8 @@ public class MainClass {
 		System.out.println("hello world");
 		
 		System.out.println("hello world");
+		
+		System.out.println("hello world");
 
 	}
 
